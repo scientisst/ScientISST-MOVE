@@ -16,3 +16,6 @@ The following scripts were run in this order:
 
 1. `redo_biosignals.py` | Standardizes channel names, event names, and other metadata.
 2. `to_csv.py` | Converts `.biosignal` files to `.csv` files.
+
+____
+© 2023 LTBio, ScientISST, Lisboa
